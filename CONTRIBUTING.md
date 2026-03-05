@@ -4,7 +4,7 @@ Any contributor that adds backgrounds, edits text, or anything of that sort must
 
 ### RULES :
 - Please sign off with your GitHub username, time and date, and if you want, email address and Discord.
-- Sign off <a href="#contributing">here.</a>
+- Sign off at CONTRIBUTING, down there!
 
 Thank you for your interest in contributing to my backgrounds! There are many ways to
 contribute, and I appreciate all of them.
