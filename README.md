@@ -1,2 +1,9 @@
-# backgrounds
-A list of backgrounds I find nice
+# modernmanias /n backgrounds
+A list of backgrounds I find nice.
+Feel free to contribute and add your own backgrounds!
+
+## Rules for contributing :
+- Please make sure the files are compatible with all major operating systems (Windows, MacOS, Linux, etc.)
+- Please add your name and profile picture to CONTRIBUTING.md
+- Please make sure your images are high-quality! No one wants a blurry desktop background.
+- Please don't add images that may be frightening for other people. If you do want to, please add it under the CAUTION folder.
