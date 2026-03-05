@@ -1,5 +1,4 @@
-# modernmanias
-# backgrounds
+# modernmanias <br/> backgrounds
 A list of backgrounds I find nice.
 Feel free to contribute and add your own backgrounds!
 
