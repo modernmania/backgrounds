@@ -1,4 +1,4 @@
-# amodes <\br> wallpapers
+# amodes </br> wallpapers
 A list of wallpapers I (and others) find nice.
 Feel free to contribute and add your own wallpapers!
 
